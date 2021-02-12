@@ -1,4 +1,4 @@
-# <div align="center"> Image_Classification Using Keras </div>
+# <div align="center"> Image Classification Using Keras </div>
 <p align="center">
   <img src="image.jpg">
 
